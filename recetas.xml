@@ -1,35 +1,18 @@
 <menu>
-    <receta >
-        <categoria>
-
-        </categoria>
-        <tiempo>
-
-        </tiempo>
-        <dificultad>
-
-        </dificultad>
+    <receta id="001">
+        <categoria>Entrante</categoria>
+        <tiempo>5</tiempo>
+        <dificultad>Fácil</dificultad>
     </receta>
-    <receta >
-        <categoria>
-
-        </categoria>
-        <tiempo>
-
-        </tiempo>
-        <dificultad>
-
-        </dificultad>
+    <receta id="002">
+        <categoria>Principal</categoria>
+        <tiempo>30</tiempo>
+        <dificultad>Difícil</dificultad>
     </receta>
-    <receta >
-        <categoria>
 
-        </categoria>
-        <tiempo>
-
-        </tiempo>
-        <dificultad>
-
-        </dificultad>
+    <receta id="003">
+        <categoria>Postre</categoria>
+        <tiempo>15</tiempo>
+        <dificultad>Medio</dificultad>
     </receta>
 </menu>
