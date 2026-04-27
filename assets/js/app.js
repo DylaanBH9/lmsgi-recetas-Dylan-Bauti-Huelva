@@ -1,5 +1,3 @@
-const document =
-
 const xmlRecetas = await fetch("recetas.xml")
 const xmlRecetasTexto = await  xmlRecetas.text()
 
