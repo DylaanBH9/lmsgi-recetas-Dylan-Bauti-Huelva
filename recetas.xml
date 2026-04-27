@@ -1,19 +1,19 @@
 <menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="recetas.xsd">
-    <receta id="001">
+    <receta codigo="001">
         <nombre>Croquetas</nombre>
         <categoria>Entrante</categoria>
         <tiempo>5</tiempo>
         <dificultad>Fácil</dificultad>
     </receta>
-    <receta id="002">
+    <receta codigo="002">
         <nombre>Paella</nombre>
         <categoria>Principal</categoria>
         <tiempo>30</tiempo>
         <dificultad>Difícil</dificultad>
     </receta>
 
-    <receta id="003">
+    <receta codigo="003">
         <nombre>Helado de Vainilla</nombre>
         <categoria>Postre</categoria>
         <tiempo>15</tiempo>
