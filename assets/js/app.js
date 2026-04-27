@@ -12,7 +12,7 @@ async function cargarXml(){
         let receta = {
             id: nodo.getAttribute("id"),
             categoria: nodo.querySelector("categoria").textContent,
-            nombre: nodo.querySelector("dificultad").textContent,
+            nombre: nodo.querySelector("nombre").textContent,
             tiempo: Number(nodo.querySelector("tiempo").textContent),
             dificultad: nodo.querySelector("dificultad").textContent
         }
