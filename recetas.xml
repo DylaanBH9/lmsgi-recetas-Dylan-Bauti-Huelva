@@ -6,6 +6,7 @@
         <tiempo>5</tiempo>
         <dificultad>Fácil</dificultad>
     </receta>
+    
     <receta codigo="002">
         <nombre>Paella</nombre>
         <categoria>Principal</categoria>

@@ -1,0 +1,5 @@
+1. El XSD lo he creado con WebStorm creando un nuevo archivo y llamándolo recetas.xsd. Lo he validado con https://www.freeformatter.com/xml-validator-xsd.html . Para validar mi xml con el xsd.
+
+2. La validación del XML con el XSD está en img/validacionXml.png
+
+3. DOMParse sirve para transformar el archivo que contiene las recetas xml a json, esto se hace porque js trabaja mucho mejor con los json que con los xml. Tambien XML trabaja con etiquetas y valores y json con mapas de clave valor lo que hacen que sean mas rapidos y comodos con los que trabajar.
