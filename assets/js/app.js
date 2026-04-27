@@ -42,7 +42,7 @@ async function cargarXml(){
         tdNombre.textContent = receta.nombre
         tr.appendChild(tdNombre)
 
-        tdTiempo.textContent = receta.tiempo
+        tdTiempo.textContent = receta.tiempo + " minutos"
         tr.appendChild(tdTiempo)
 
         tdDificultad.textContent = receta.dificultad
